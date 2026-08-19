@@ -108,8 +108,8 @@ También desarrollé un sistema de inventario de bodega durante mi práctica pro
 ## Actividad en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeimy-mendoza&show_icons=true&hide_border=true&border_radius=12&title_color=176B87&icon_color=2A9D8F&text_color=334155&bg_color=FFFFFF00" height="165" alt="Estadísticas de GitHub de Yeimy Mendoza" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeimy-mendoza&layout=compact&hide_border=true&border_radius=12&title_color=176B87&text_color=334155&bg_color=FFFFFF00" height="165" alt="Lenguajes más utilizados por Yeimy Mendoza" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yeimy-mendoza&theme=github_dark" height="165" alt="Estadísticas de GitHub de Yeimy Mendoza" />
+  <img src="https://streak-stats.demolab.com?user=yeimy-mendoza&theme=github-dark-blue&hide_border=true" height="165" alt="Racha de contribuciones de Yeimy Mendoza" />
 </div>
 
 ## Contacto
