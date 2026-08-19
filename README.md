@@ -71,7 +71,7 @@ En este perfil compartiré proyectos, prácticas y aprendizajes relacionados con
 ## Experiencia destacada
 
 **Analista de Desarrollo Informático / Desarrolladora Web**<br />
-*Secretaría de Educación · 2019 - 2024*
+*Secretaría de Educación*
 
 Participé en la administración, desarrollo e implementación de sistemas institucionales, entre ellos:
 
@@ -109,7 +109,7 @@ También desarrollé un sistema de inventario de bodega durante mi práctica pro
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yeimy-mendoza&theme=github_dark" height="165" alt="Estadísticas de GitHub de Yeimy Mendoza" />
-  <img src="https://streak-stats.demolab.com?user=yeimy-mendoza&theme=github-dark-blue&hide_border=true" height="165" alt="Racha de contribuciones de Yeimy Mendoza" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yeimy-mendoza&theme=github_dark&utcOffset=-6" height="165" alt="Actividad de contribuciones de Yeimy Mendoza" />
 </div>
 
 ## Contacto

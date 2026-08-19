@@ -71,7 +71,7 @@ This profile is where I share projects, practice work, and learnings related to 
 ## Highlighted experience
 
 **IT Development Analyst / Web Developer**<br />
-*Ministry of Education · 2019 - 2024*
+*Ministry of Education*
 
 I contributed to the administration, development, and implementation of institutional systems, including:
 
@@ -109,7 +109,7 @@ I also developed a warehouse inventory system during my professional internship 
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yeimy-mendoza&theme=github_dark" height="165" alt="Yeimy Mendoza's GitHub statistics" />
-  <img src="https://streak-stats.demolab.com?user=yeimy-mendoza&theme=github-dark-blue&hide_border=true" height="165" alt="Yeimy Mendoza's contribution streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yeimy-mendoza&theme=github_dark&utcOffset=-6" height="165" alt="Yeimy Mendoza's contribution activity" />
 </div>
 
 ## Get in touch
